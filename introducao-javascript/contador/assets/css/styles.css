@@ -1,0 +1,54 @@
+body{
+    color: white;
+    background-color: gray;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;    
+}
+
+h1{  
+  font-size: 32px;
+  font-weight: 300;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+p{  
+  font-size: 18px;
+  font-weight: 300;
+  letter-spacing: 2px;
+  text-align: center;
+  text-transform: uppercase
+}
+
+#counter{   
+    background-color: #353535; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;  
+    padding: 10px;
+}
+
+.button{        
+    color: black;    
+    font-size: 36px;
+    width: 36px;
+    height: 36px;    
+    border: 1px solid #05A8AA;
+    border-radius: 50%;
+    padding: 0px;
+}
+
+.button:hover{
+  background-color: #05A8AA;
+  border: 1px solid #05A8AA;
+  color: #FFF;  
+}
+
+#currentNumber{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
