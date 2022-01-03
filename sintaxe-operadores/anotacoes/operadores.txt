@@ -1,0 +1,16 @@
+/* operadores atribuição
+
+= igual
++= 
+*= 
+/= 
+%= 
+
+== valor igual a outro, memso tipo diferents  2 == "2" dois igual a string 2
+=== valor e tipo igual a outro 
+
+//condicional ternario
+
+(condição) ? expressão se verdadeira : expressão se falso
+
+*/
